@@ -1,0 +1,5 @@
+```txt
+pandas
+streamlit
+matplotlib
+seaborn
